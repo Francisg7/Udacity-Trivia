@@ -1,9 +1,9 @@
-node_modules/
+frontend/node_modules/
 .vscode
 __pycache__
 venv
-Scripts
-env
+backend/Scripts
+backend/env
 
 # OS generated files #
 ######################
